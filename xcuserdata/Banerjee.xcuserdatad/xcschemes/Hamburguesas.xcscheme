@@ -17,7 +17,7 @@
                BlueprintIdentifier = "15FD8E9E1CA70AA000193A82"
                BuildableName = "Hamburguesas.app"
                BlueprintName = "Hamburguesas"
-               ReferencedContainer = "container:Hamburguesas.xcodeproj">
+               ReferencedContainer = "container:Hamburguesas">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "15FD8EB21CA70AA000193A82"
                BuildableName = "HamburguesasTests.xctest"
                BlueprintName = "HamburguesasTests"
-               ReferencedContainer = "container:Hamburguesas.xcodeproj">
+               ReferencedContainer = "container:Hamburguesas">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "15FD8EBD1CA70AA000193A82"
                BuildableName = "HamburguesasUITests.xctest"
                BlueprintName = "HamburguesasUITests"
-               ReferencedContainer = "container:Hamburguesas.xcodeproj">
+               ReferencedContainer = "container:Hamburguesas">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,7 +55,7 @@
             BlueprintIdentifier = "15FD8E9E1CA70AA000193A82"
             BuildableName = "Hamburguesas.app"
             BlueprintName = "Hamburguesas"
-            ReferencedContainer = "container:Hamburguesas.xcodeproj">
+            ReferencedContainer = "container:Hamburguesas">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -78,7 +78,7 @@
             BlueprintIdentifier = "15FD8E9E1CA70AA000193A82"
             BuildableName = "Hamburguesas.app"
             BlueprintName = "Hamburguesas"
-            ReferencedContainer = "container:Hamburguesas.xcodeproj">
+            ReferencedContainer = "container:Hamburguesas">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -97,7 +97,7 @@
             BlueprintIdentifier = "15FD8E9E1CA70AA000193A82"
             BuildableName = "Hamburguesas.app"
             BlueprintName = "Hamburguesas"
-            ReferencedContainer = "container:Hamburguesas.xcodeproj">
+            ReferencedContainer = "container:Hamburguesas">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
